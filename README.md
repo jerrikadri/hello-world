@@ -10,3 +10,4 @@ to accomplish that target i had to:
   1. master python before march
   2. master SQL on february
   3. master BI tools (Tableu, Qlickview, or PowerBI) before april
+  4. learn machine learning before may (take onlinr course)
